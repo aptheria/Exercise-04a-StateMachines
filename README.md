@@ -1,7 +1,12 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+MSCH-C220 10/11/24
+
+2d Platformer
 
 ## Implementation
-Which features you included.
+Added animations
 
 ## References
 
@@ -12,4 +17,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Andrew Theriault
